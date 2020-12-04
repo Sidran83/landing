@@ -1,0 +1,24 @@
+.banner {
+  background-image: url(../../images/background.png);
+  background-size: cover;
+  background-position: center;
+  margin: 0 auto;
+  padding: 200px 0;
+  color: white;
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+
+}
+
+.banner p {
+  opacity: .7;
+  font-size: 20px;
+  text-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.banner h1 {
+  text-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
